@@ -1,3 +1,3 @@
 git add .
 git commit -m "Actualización"
-git push wai-dev master
+git push wai-android master
