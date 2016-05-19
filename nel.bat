@@ -1,3 +1,3 @@
 git add .
 git commit -m "Actualizacion"
-git push android master
+git push master master
